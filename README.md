@@ -7,3 +7,6 @@ Feel free to look at some of my small projects that I have created:
 * [Pokemon card with PokeAPI](https://pokemon-api-dm8s.vercel.app)
 * [TV-series App with TVmazeAPI](https://tvseries-api.netlify.app)
 * [Weather App with Rest API](https://weather-api-lindetti.vercel.app)
+
+### Inprogress:
+* [Formula 1 App - Ergast API](https://github.com/Lindetti/formula1)
