@@ -8,5 +8,5 @@ Feel free to look at some of my small projects that I have created:
 * [TV-series App with TVmazeAPI](https://tvseries-api.netlify.app)
 * [Weather App with Rest API](https://weather-api-lindetti.vercel.app)
 
-### Inprogress:
+#### Inprogress:
 * [Formula 1 App - Ergast API](https://github.com/Lindetti/formula1)
