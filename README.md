@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 I am a Junior Frontend Developer who recently completed a 3-month intensive education in Javascript.
 
 Feel free to look at some of my small projects that I have created:
