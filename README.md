@@ -15,3 +15,4 @@ Feel free to look at some of my small projects that I have created:
 
 *** 
 [My Linkedin](https://www.linkedin.com/in/alexander-lind-2b2934199)
+[Portfolio](https://alexanderlind.vercel.app/)
