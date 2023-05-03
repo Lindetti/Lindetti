@@ -14,5 +14,5 @@ Feel free to look at some of my small projects that I have created:
 * [Formula 1 App - Ergast API](https://github.com/Lindetti/formula1)
 
 *** 
-[My Linkedin](https://www.linkedin.com/in/alexander-lind-2b2934199)
-[Portfolio](https://alexanderlind.vercel.app/)
+*[My Linkedin](https://www.linkedin.com/in/alexander-lind-2b2934199)
+*[Portfolio](https://alexanderlind.vercel.app/)
