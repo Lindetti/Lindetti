@@ -3,7 +3,7 @@ I am a Junior Frontend Developer who recently completed a 3-month intensive educ
 
 Feel free to look at some of my small projects that I have created:
 * [Exam Project - Quiz App](https://dailyquizine.vercel.app)
-* [Website - Popular places to visit in Europe](https://popular-vacations.netlify.app/)
+* [Popular places to visit in Europe](https://popular-vacations.netlify.app/)
 * [Iphone Calculator](https://calculator-flax-theta.vercel.app)
 * [Password Generator](https://password-generator-nu-eight.vercel.app)
 * [Different useStates with React.js](https://react-states-alpha.vercel.app/)
