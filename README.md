@@ -3,6 +3,7 @@ I am a Junior Frontend Developer who is always eager to grow, learn new things, 
 
 Feel free to look at some of my small projects that I have created:
 * [Exam Project - Quiz App](https://dailyquizine.vercel.app)
+* [Movie Database - With TMDB API](https://lindetti-movies.vercel.app/)
 * [Popular places to visit in Europe](https://popular-vacations.netlify.app/)
 * [Iphone Calculator](https://calculator-flax-theta.vercel.app)
 * [Password Generator](https://password-generator-nu-eight.vercel.app)
