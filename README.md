@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a Junior Frontend Developer who is always eager to grow, learn new things, and expand my skills.
+I'm a Junior Frontend Developer who is always eager to grow, learn new things, and expand my skills.
 
 Feel free to look at some of my small projects that I have created:
 * [Exam Project - Quiz App](https://dailyquizine.vercel.app)
