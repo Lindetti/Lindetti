@@ -2,6 +2,7 @@
 I'm a Junior Frontend Developer who is always eager to grow, learn new things, and expand my skills.
 
 Feel free to look at some of my small projects that I have created:
+* [ViziGo - Watch TV-Series Online (TVMaze API)](https://dailyquizine.vercel.app](https://vizigo.vercel.app/))
 * [Exam Project - Quiz App](https://dailyquizine.vercel.app)
 * [Movie Database - With TMDB API](https://lindetti-movies.vercel.app/)
 * [Popular places to visit in Europe](https://popular-vacations.netlify.app/)
