@@ -3,4 +3,4 @@ I'm a Junior Frontend Developer who is always eager to grow, learn new things, a
 
 *** 
 * [My Linkedin](https://www.linkedin.com/in/alexander-lind-2b2934199)
-* [Portfolio](https://alexanderlind.vercel.app/)
+* [Portfolio](https://alexanderliind.vercel.app/)
